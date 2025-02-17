@@ -19,5 +19,4 @@ The project was to make a simple quiz game with at least 4 questions. In additio
 7 - See the project
 
 # LICENSE
-The license chosen is good due to the guarantee that any people can use the code as they want to. Without forgetting the copyright.
-
+The license chosen is suitable due to the guarantee that people can use the code as they want without forgetting the copyright.
