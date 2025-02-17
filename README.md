@@ -18,6 +18,6 @@ The project was to make a simple quiz game with at least 4 questions. In additio
 
 7 - See the project
 
-#LICENSE
+# LICENSE
 The license chose is good due to guarantee that any people can use the code as they want to.  
 
