@@ -1,7 +1,7 @@
 # Assignment3---Project-Development
 
 # Purpose: 
-The project was to make a simple quiz game with at least 4 questions. In addition, display the correct answers and results of the user at the end of the game.
+The project was to make a simple quiz game with at least 4 questions. In addition, the correct answers and user results are displayed at the end of the game.
 
 # Instructions on how to build and run the project:
 1 - Create a local folder in your computer
@@ -19,5 +19,5 @@ The project was to make a simple quiz game with at least 4 questions. In additio
 7 - See the project
 
 # LICENSE
-The license chose is good due to guarantee that any people can use the code as they want to.  
+The license chosen is good due to the guarantee that any people can use the code as they want to. Without forgetting the copyright.
 
