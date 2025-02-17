@@ -17,3 +17,7 @@ The project was to make a simple quiz game with at least 4 questions. In additio
 6 - Click on the button with the name of the project so that the system runs the project
 
 7 - See the project
+
+#LICENSE
+The license chose is good due to guarantee that any people can use the code as they want to.  
+
