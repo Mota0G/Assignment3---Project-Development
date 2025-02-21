@@ -6,7 +6,7 @@ The project was to make a simple quiz game with at least 4 questions. In additio
 # Instructions on how to build and run the project:
 1 - Create a local folder in your computer
 
-2 - Open the prompt
+2 - Open the prompt inside of the folder
 
 3 - Use the command this command - git clone (link of the project)
 
